@@ -1,18 +1,23 @@
-Requisitos Calculadora
+### 📱 Protótipo da Interface
 
-fazer soma (+)
-Fazer subtracao (-)
-fazer multiplicacao(x)
-fazer divisao (/)
-fazer raiz (raiz)
-fazer todas as operacoes, mostrar o resultado, ter os botoes numeros e operacoes e parecer uma calculadora
-----------------------------------------
+| [ ` 0.00 ` ] |
+| :---: |
 
-PROTÓTIPO
+| | | | |
+| :---: | :---: | :---: | :---: |
+| ` AC ` | `    ` | ` √ ` | ` / ` |
+| ` 7 ` | ` 8 ` | ` 9 ` | ` X ` |
+| ` 4 ` | ` 5 ` | ` 6 ` | ` - ` |
+| ` 1 ` | ` 2 ` | ` 3 ` | ` + ` |
+| `   ` | ` 0 ` | ` , ` | ` = ` |
 
-(   VISOR  )
-(AC)( )(RAIZ)(/)
-(7)(8)(9)(X)
-(4)(5)(6)(-)
-(1)(2)(3)(+)
-( )(0)(,)(=)
+---
+
+### 📋 Requisitos Funcionais
+
+- [x] **Soma** (`+`)
+- [x] **Subtração** (`-`)
+- [x] **Multiplicação** (`x`)
+- [x] **Divisão** (`/`)
+- [x] **Raiz Quadrada** (`√`)
+- [x] **Interface Visual**: Botões numéricos, de operação e visor de resultados.
